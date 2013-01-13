@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://ivorytower.github.com/atom.xml" rel="self"/>
+  <link href="http://ivorytower.github.com/"/>
+  <updated>2013-01-14T04:09:10+08:00</updated>
+  <id>http://ivorytower.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
