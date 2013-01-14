@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ivorytower.github.com/atom.xml" rel="self"/>
-  <link href="http://ivorytower.github.com/"/>
-  <updated>2013-01-14T04:35:44+08:00</updated>
-  <id>http://ivorytower.github.com/</id>
+  <title><![CDATA[Ivorytower]]></title>
+  <link href="//atom.xml" rel="self"/>
+  <link href="//"/>
+  <updated>2013-01-14T14:04:50+08:00</updated>
+  <id>//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jiajie.Chen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
