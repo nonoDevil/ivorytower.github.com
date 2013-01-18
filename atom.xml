@@ -4,7 +4,7 @@
   <title><![CDATA[Ivorytower]]></title>
   <link href="//atom.xml" rel="self"/>
   <link href="//"/>
-  <updated>2013-01-14T14:04:50+08:00</updated>
+  <updated>2013-01-18T23:06:23+08:00</updated>
   <id>//</id>
   <author>
     <name><![CDATA[Jiajie.Chen]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[loveChenHexin]]></title>
+    <link href="//blog/2013/01/18/lovechenhexin/"/>
+    <updated>2013-01-18T23:04:00+08:00</updated>
+    <id>//blog/2013/01/18/lovechenhexin</id>
+    <content type="html"><![CDATA[<h1>我爱陈鹤心</h1>
+
+<h2>陈鹤心是我老婆!!</h2>
+]]></content>
+  </entry>
   
 </feed>
