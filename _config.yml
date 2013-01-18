@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ivorytower.github.com
-title: My Octopress Blog
+url: /
+title: Ivorytower
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Jiajie.Chen
 simple_search: http://google.com/search
 description:
 
